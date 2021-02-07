@@ -1,0 +1,7 @@
+F:\C# projects\Lab2 project 3\Lab2 project 3\bin\Debug\Lab2 project 3.exe.config
+F:\C# projects\Lab2 project 3\Lab2 project 3\bin\Debug\Lab2 project 3.exe
+F:\C# projects\Lab2 project 3\Lab2 project 3\bin\Debug\Lab2 project 3.pdb
+F:\C# projects\Lab2 project 3\Lab2 project 3\obj\Debug\Lab2 project 3.csprojAssemblyReference.cache
+F:\C# projects\Lab2 project 3\Lab2 project 3\obj\Debug\Lab2 project 3.csproj.CoreCompileInputs.cache
+F:\C# projects\Lab2 project 3\Lab2 project 3\obj\Debug\Lab2 project 3.exe
+F:\C# projects\Lab2 project 3\Lab2 project 3\obj\Debug\Lab2 project 3.pdb

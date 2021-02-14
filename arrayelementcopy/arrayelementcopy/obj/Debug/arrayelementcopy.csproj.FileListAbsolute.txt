@@ -1,0 +1,7 @@
+F:\C# projects\arrayelementcopy\arrayelementcopy\bin\Debug\arrayelementcopy.exe.config
+F:\C# projects\arrayelementcopy\arrayelementcopy\bin\Debug\arrayelementcopy.exe
+F:\C# projects\arrayelementcopy\arrayelementcopy\bin\Debug\arrayelementcopy.pdb
+F:\C# projects\arrayelementcopy\arrayelementcopy\obj\Debug\arrayelementcopy.csprojAssemblyReference.cache
+F:\C# projects\arrayelementcopy\arrayelementcopy\obj\Debug\arrayelementcopy.csproj.CoreCompileInputs.cache
+F:\C# projects\arrayelementcopy\arrayelementcopy\obj\Debug\arrayelementcopy.exe
+F:\C# projects\arrayelementcopy\arrayelementcopy\obj\Debug\arrayelementcopy.pdb

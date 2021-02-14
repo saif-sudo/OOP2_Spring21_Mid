@@ -30,11 +30,12 @@ namespace ArrayDuplicateElementCount
 
                 }
 
-               
+                if (count > 1)
+                {
 
                     Console.WriteLine("Total duplicate of arr1[" + i + "] =" + arr1[i] + " is = " + count);
-                
-
+                    
+                }
 
                 count = 0;
             }

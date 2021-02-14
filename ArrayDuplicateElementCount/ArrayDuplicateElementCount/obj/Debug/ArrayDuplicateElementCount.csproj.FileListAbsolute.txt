@@ -1,0 +1,7 @@
+F:\C# projects\ArrayDuplicateElementCount\ArrayDuplicateElementCount\bin\Debug\ArrayDuplicateElementCount.exe.config
+F:\C# projects\ArrayDuplicateElementCount\ArrayDuplicateElementCount\bin\Debug\ArrayDuplicateElementCount.exe
+F:\C# projects\ArrayDuplicateElementCount\ArrayDuplicateElementCount\bin\Debug\ArrayDuplicateElementCount.pdb
+F:\C# projects\ArrayDuplicateElementCount\ArrayDuplicateElementCount\obj\Debug\ArrayDuplicateElementCount.csprojAssemblyReference.cache
+F:\C# projects\ArrayDuplicateElementCount\ArrayDuplicateElementCount\obj\Debug\ArrayDuplicateElementCount.csproj.CoreCompileInputs.cache
+F:\C# projects\ArrayDuplicateElementCount\ArrayDuplicateElementCount\obj\Debug\ArrayDuplicateElementCount.exe
+F:\C# projects\ArrayDuplicateElementCount\ArrayDuplicateElementCount\obj\Debug\ArrayDuplicateElementCount.pdb
